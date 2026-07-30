@@ -1,10 +1,20 @@
-Nailed it by Alexandra — GitHub Pages
+NAILED IT BY ALEXANDRA — REPLACEMENT FILES
 
-Upload de inhoud van deze map naar een GitHub-repository en schakel GitHub Pages in.
-Alle afbeeldings-, CSS- en JavaScriptpaden zijn relatief en werken ook onder een projectpad.
+Vervang in je bestaande project:
+- index.html
+- assets/css/styles.css
+- assets/js/main.js
 
-Versie 3:
-- Google-score direct zichtbaar bovenaan de hero
-- klikbare behandelingen die naar de online boeking gaan
-- vernieuwde portfolio-sectie
-- compactere merkhero zonder logo-afbeelding
+Bestaande afbeeldingen blijven gewoon in assets/images staan.
+
+Wijzigingen:
+- Bruine behandelingkaart vult op desktop de volledige rij.
+- Reviewcarrousel is op mobiel native swipebaar met scroll-snap.
+- Pijltjes blijven op tablet/desktop en verdwijnen op mobiel.
+- Instagram-SVG toegevoegd bij portfolio en in de footer.
+- Kleine menu- en resize-optimalisaties.
+
+Salonized:
+De normale openbare URL bevat geen behandeling-ID. Automatisch een behandeling
+voorselecteren kan daarom niet betrouwbaar vanuit deze website zonder een door
+Salonized gegenereerde custom booking link per behandeling.

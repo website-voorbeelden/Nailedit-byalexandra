@@ -387,7 +387,7 @@ h3 { font-size: 1.35rem; }
 .rating-count { font-size: .78rem; }
 
 .treatments { padding-top: 94px; }
-.treatment-card { position: relative; color: inherit; cursor: pointer; }
+.treatment-card { position: relative; cursor: pointer; }
 .treatment-card:focus-visible { outline: 3px solid rgba(185,111,105,.35); outline-offset: 3px; }
 .card-link {
   display: inline-flex;
